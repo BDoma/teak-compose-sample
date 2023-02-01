@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TEAKSampleCompose"
 include ':app'
+include ':business-logic'
