@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TEAKSampleCompose</string>
+    <string name="dec">-</string>
+    <string name="inc">+</string>
 </resources>
