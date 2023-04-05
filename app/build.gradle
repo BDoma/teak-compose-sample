@@ -49,7 +49,7 @@ android {
 dependencies {
     implementation project(':business-logic')
     implementation 'com.github.BDoma:teak-framework-core:1.1.2-beta01'
-    implementation 'com.github.BDoma:teak-android-compose:1.0'
+    implementation 'com.github.BDoma:teak-android-compose:1.1'
 
     implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
